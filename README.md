@@ -27,7 +27,7 @@ The original conceptual analysis compared normalized PV generation with a temper
 5. reporting interpretable mismatch metrics rather than relying only on curve normalization;
 6. adding systematic sensitivity analysis;
 7. adding automated tests, explicit assumptions, claim boundaries and reproducibility checks;
-8. supporting observed/reanalysis weather cases without embedding a location into the model itself.
+8. supporting separately configured typical-weather EPW cases without embedding a location into the core model itself.
 
 ## Core outputs
 
@@ -121,7 +121,7 @@ This is a screening metric and does **not** include storage, grid exchange, curt
 
 - reproducible comparison of PV electricity and temperature-driven heating-electricity demand under stated assumptions;
 - sensitivity of temporal mismatch to HLC, COP, PV area and base temperature;
-- comparison of a transparent synthetic benchmark with separately configured real-weather cases;
+- comparison of a transparent synthetic benchmark with separately configured typical-weather cases;
 - identification of periods where more detailed storage, flexibility or building simulation may be warranted.
 
 ### Not supported
