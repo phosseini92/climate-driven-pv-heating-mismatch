@@ -1,0 +1,12 @@
+{
+  "annual_deficit_kwh_el": 2217.1293769789463,
+  "annual_heating_kwh_el": 3289.2563576222506,
+  "annual_heating_kwh_th": 9867.769072866753,
+  "annual_pv_kwh_el": 8598.685062792218,
+  "annual_surplus_kwh_el": 7526.558082148914,
+  "deficit_hour_fraction": 0.5165525114155252,
+  "direct_overlap_kwh_el": 1072.1269806433045,
+  "direct_pv_coverage_ratio": 0.3259481366232967,
+  "surplus_hour_fraction": 0.4557077625570776,
+  "symmetric_mismatch_index": 0.8196278156616413
+}

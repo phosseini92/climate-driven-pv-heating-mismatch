@@ -1,0 +1,5 @@
+scenario,annual_heating_kwh_el,mean_cop_during_heating,direct_pv_coverage_ratio,symmetric_mismatch_index
+constant_cop_3,2873.39200000,3.00000000,0.33340630,0.81469031
+linear_mild,3150.65198036,2.93844790,0.31749502,0.81155945
+linear_baseline,3338.87617990,2.90787397,0.30694517,0.81030057
+linear_steeper,3521.68412912,2.88529796,0.29837485,0.80873688

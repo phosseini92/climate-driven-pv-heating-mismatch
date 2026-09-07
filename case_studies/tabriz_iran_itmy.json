@@ -1,0 +1,27 @@
+{
+  "case_id": "tabriz_iran_itmy",
+  "location_name": "Tabriz, Iran",
+  "station_id": "407060",
+  "weather_type": "ITMY",
+  "weather_type_expanded": "Iranian Typical Meteorological Year",
+  "latitude": 38.05,
+  "longitude": 46.17,
+  "source_format": "EnergyPlus EPW",
+  "source_file_expected": "data/observed/IRN_Tabriz.407060_ITMY.epw",
+  "source_url_energyplus": "https://energyplus.net/weather-download/asia_wmo_region_2/IRN//IRN_Tabriz.407060_ITMY/IRN_Tabriz.407060_ITMY.epw",
+  "source_url_mirror_listing": "https://energyplus-weather.s3.amazonaws.com/asia_wmo_region_2/IRN/IRN_Tabriz.407060_ITMY/IRN_Tabriz.407060_ITMY.zip",
+  "status": "executed_and_qa_checked",
+  "claim_boundary": "ITMY is a typical meteorological year for building-energy simulation. It must not be described as actual weather for calendar year 2023.",
+  "source_sha256": {
+    "IRN_Tabriz.407060_ITMY.epw": "0f8cc6cb3d63a951d56a9a2dc94e9f635b97eab70909086c4335a0b25c875fba",
+    "IRN_Tabriz.407060_ITMY.ddy": "51d0b43848f2286b4777c86a09dbc8a8715226ef6e9ff43cb3815d7dc239dae6",
+    "IRN_Tabriz.407060_ITMY.stat": "6a1193cddd6f92b6aba00782f9fc909e94a00f594f65717d469ba2b5852de2f7"
+  },
+  "output_summary": {
+    "annual_pv_kwh_el": 7466.131799999999,
+    "annual_heating_kwh_th": 8620.176,
+    "annual_heating_kwh_el_constant_cop_3": 2873.392,
+    "direct_pv_coverage_ratio": 0.33340630168107943,
+    "symmetric_mismatch_index": 0.8146903051763371
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "heat_loss_coefficient_w_per_k": 120.0,
+  "heat_pump_cop": 3.0,
+  "heating_base_temp_c": 18.0,
+  "pv_area_m2": 30.0,
+  "pv_efficiency": 0.18,
+  "timestep_hours": 1.0
+}

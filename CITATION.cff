@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this research demonstrator, please cite the repository."
+title: "Climate-Driven PV–Heating Demand Mismatch: A Reproducible Weather-to-Energy Screening Workflow"
+type: software
+authors:
+  - family-names: Hosseini
+    given-names: Parisa
+version: 1.2.0
+date-released: 2026-09-07
+license: MIT
+repository-code: "https://github.com/phosseini92/climate-driven-pv-heating-mismatch"
+keywords:
+  - building heating
+  - photovoltaic
+  - heat pump
+  - climate variability
+  - temporal mismatch
+  - energy transition
+  - reproducible research

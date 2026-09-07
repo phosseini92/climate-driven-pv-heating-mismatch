@@ -1,0 +1,9 @@
+metric,synthetic_benchmark,tabriz_itmy,difference_tabriz_minus_synthetic
+annual_pv_kwh_el,8598.68506279,7466.13180000,-1132.55326279
+annual_heating_kwh_th,9867.76907287,8620.17600000,-1247.59307287
+annual_heating_kwh_el,3289.25635762,2873.39200000,-415.86435762
+direct_pv_coverage_ratio,0.32594814,0.33340630,0.00745817
+annual_deficit_kwh_el,2217.12937698,1915.38500000,-301.74437698
+annual_surplus_kwh_el,7526.55808215,6508.12480000,-1018.43328215
+deficit_hour_fraction,0.51655251,0.42294521,-0.09360731
+symmetric_mismatch_index,0.81962782,0.81469031,-0.00493751
